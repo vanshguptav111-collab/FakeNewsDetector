@@ -1,0 +1,7 @@
+﻿src/components/ui/avatar.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+src/components/ui/hero-section-shadcnui.tsx(1,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+src/components/ui/moving-border.tsx(11,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+src/components/ui/moving-border.tsx(85,19): error TS2554: Expected 1 arguments, but got 0.
+src/components/ui/testimonial-card.tsx(1,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+src/components/ui/testimonials-with-marquee.tsx(1,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+src/components/ui/testimonials-with-marquee.tsx(2,27): error TS1484: 'TestimonialAuthor' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
